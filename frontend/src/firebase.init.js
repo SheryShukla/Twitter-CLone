@@ -3,7 +3,6 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB2CBj4jqaA79QqYiYlWYajM-uaRKlf2Ss",
   authDomain: "a-website-like-twitter-8c70a.firebaseapp.com",
   projectId: "a-website-like-twitter-8c70a",
   storageBucket: "a-website-like-twitter-8c70a.appspot.com",
